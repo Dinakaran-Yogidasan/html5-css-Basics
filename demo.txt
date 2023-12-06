@@ -1,0 +1,14 @@
+<!DOCTYPE html> -> Its a based on document type (HTML5) based.
+Meta -> Its a set of information or meta data.
+Head -> Head tag is based on meta data , and title
+Element : Tag + Content
+Tag: 
+    1. Self Close : they dont need closing tag. Eg: <meta>
+    2. Non- Self : They need closing tag. Eg: <title></title>
+Heading  Tags:
+h1 to h6
+Links: 
+Attribute : Attribute gives a additonal information of a element.
+href : Links
+target= _blank helps us to have a document in the next tab
+
